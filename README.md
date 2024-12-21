@@ -1,6 +1,6 @@
 ## Basic Dashboard
 
-\[Please note that the workbook and worksheets are both locked to ensure that you don't unintentionally mess up with the stuff around.]
+\[Please note that the **workbook and worksheets are both locked** to ensure that you don't unintentionally mess up with the stuff around.]
 
 #### Password to unprotect Workbook & Worksheet: excel
 

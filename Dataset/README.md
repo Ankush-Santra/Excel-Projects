@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/Ankush-Santra/Excel-Projects/blob/main/Images/Salary%20Data.png](https://github.com/Ankush-Santra/Excel-Projects/blob/main/Images/Salary_Data.png)" alt="Salary Data" width="600"/>
+  <img src="https://github.com/Ankush-Santra/Excel-Projects/blob/main/Images/Salary_Data.png" alt="Salary Data" width="600"/>
   <p><em>A Glimpse of the Salary Dataset</em></p>
 </div>
 

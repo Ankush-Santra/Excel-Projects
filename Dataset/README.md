@@ -1,14 +1,18 @@
 Here's a glimpse of what the dataset looks like.
 
-![1.00](https://github.com/Ankush-Santra/Excel-Projects/blob/main/Images/Salary_Data.png "Salary Data")
-
+<div align="center">
+  <img src="https://github.com/Ankush-Santra/Excel-Projects/blob/main/Images/Salary_Data.png" alt="Salary Data" style="width: 70%;">
+  <p><em>Salary Data</em></p>
+</div>
+<br><br>
 
 
 Thanks to **Luke Barrouse** for his dataset on job postings hosted on [Kaggle](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search). This dataset pulls in job postings from **Google search results** for Data Analysts in the **United States**. The collection started in November 2022 and **adds about 100 jobs daily**. There's also a [remote source](https://storage.googleapis.com/gsearch_share/gsearch_jobs.csv) available to fetch the updated dataset.
-
+<br><br>
 
 
 Now, I have used this dataset to build 2 dashboards. The skills required for both the dashboards are available in the main [README](https://github.com/Ankush-Santra/Excel-Projects/blob/main/README.md) file.
+<br><br>
 
 * The first dashboard **uses the CSV file** and transforms the dataset using **Power Query**.
 * The second dashboard uses the **remote source as a data source** and transforms it via **Power Query**.
@@ -59,6 +63,7 @@ in
     #"Reordered Columns"
 ```
 
+<br><br>
 The above code should be pretty self-explanatory.
 
 The next query only involves the **removal of extra columns**.
@@ -72,5 +77,5 @@ in
 ```
 
 
-
+<br><br>
 You can replicate the same results by adding the code in **Advanced Editor** under Power Query Editor. As the second dashboard uses a remote URL, **at one click** (on Refresh All under Data Tab), new data will be extracted, transformed, and loaded without any additional hassle. Thus, we **achieved ETL**.
